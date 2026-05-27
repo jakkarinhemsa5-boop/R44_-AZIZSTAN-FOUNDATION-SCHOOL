@@ -253,6 +253,14 @@ UNO Q → Movement → Pixels → Buzzer
 
 คู่มือ setup เต็ม: [connect-edge-impulse.md](../labs/setup/connect-edge-impulse.md) และ [Arduino UNO Q + Edge Impulse](https://docs.edgeimpulse.com/hardware/boards/arduino-uno-q)
 
+ภาพที่ควรเห็นหลัง setup ผ่าน: UNO Q ขึ้นใน Devices และพร้อมเก็บ data ใน Studio
+
+<a href="https://docs.edgeimpulse.com/hardware/boards/arduino-uno-q">
+        <img src="https://mintcdn.com/edgeimpulse/zHgaC-4BZVkjSTjB/.assets/images/arduino-uno-q/data-acquisition-edge-impulse-studio.png?w=1650&fit=max&auto=format&n=zHgaC-4BZVkjSTjB&q=85&s=9c9f0e7ee8b1352790f85ccc8efd3878" alt="Edge Impulse Studio showing Arduino UNO Q connected in Devices" width="460" />
+</a>
+
+ถ้ายังไม่เห็นหน้าประมาณนี้ แปลว่ายัง setup ไม่จบ
+
 ---
 
 ## 📑 Section 4: Track Selection — 10:00-10:30
