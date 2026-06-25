@@ -9,6 +9,7 @@
 
 | เวลา | ทำอะไร | คู่มือ |
 |---|---|---|
+| ก่อนเริ่ม | เช็กอุปกรณ์ที่ได้รับครบ | [team-template/morning/kit-checklist.md](../team-template/morning/kit-checklist.md) |
 | ก่อนเริ่ม | ลง App Lab (ถ้ายังไม่มี) | [00-install-app-lab.md](00-install-app-lab.md) |
 | 09:00–09:20 | เปิดงาน + ดูตัวอย่างปลายทาง | — |
 | 09:20–09:40 | รู้จัก UNO Q (สองสมอง MCU/Linux) | — |

@@ -18,6 +18,7 @@
 ## ✅ Checklist
 
 **เช้า — ทำให้ UNO Q อยู่มือ**
+- [ ] เช็กอุปกรณ์ที่ได้รับครบ → [morning/kit-checklist.md](morning/kit-checklist.md)
 - [ ] ตั้งบอร์ดเป็นของทีม (รหัส/ชื่อ/Wi-Fi) → [student/02-setup-board.md](../student/02-setup-board.md)
 - [ ] ต่อ input + ลอง Modulino 7 ตัว + challenges → [morning/hardware-check.md](morning/hardware-check.md)
 
@@ -42,6 +43,7 @@
 ## 📦 ในโฟลเดอร์นี้มีอะไร
 | ไฟล์ | กรอกตอนไหน |
 |---|---|
+| [morning/kit-checklist.md](morning/kit-checklist.md) | ก่อนเริ่ม — เช็กอุปกรณ์ที่ได้รับ |
 | [morning/hardware-check.md](morning/hardware-check.md) | เช้า — ต่อ input + ลอง Modulino |
 | [afternoon/model.md](afternoon/model.md) | บ่าย — ผลเทรน + deploy |
 | [afternoon/predictions.csv](afternoon/predictions.csv) | บ่าย — ทดสอบ 10 cases |
