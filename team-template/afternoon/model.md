@@ -22,7 +22,7 @@
 ## รันบนบอร์ด
 - [/] deploy target = **Arduino UNO Q** → Build → import ใน App Lab → Run
 - [/] ป้อน input จริงแล้ว prediction เปลี่ยนตาม
-- คลิป/รูปตอนรัน: ![run](../assets/run.jpg)
+- คลิป/รูปตอนรัน: ![run](../assets/727620863_1730925327926767_6253555095383052440_n.png)
 
 ## (ต่อยอด) Output logic
 - threshold ที่ใช้: confidence ≥ __0.5__
