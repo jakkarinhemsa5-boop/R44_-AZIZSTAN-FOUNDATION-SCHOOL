@@ -7,40 +7,40 @@
 > กรอกแค่ที่ขีดเส้นใต้ ขอ **ครบ** ดีกว่าสวย
 
 ## 👥 ข้อมูลทีม
-- **ชื่อทีม:** _______________
-- **เลขทีม:** XX
-- **ชื่อบอร์ด:** team-XX-q
+- **ชื่อทีม:** _____R44__________
+- **เลขทีม:** 22
+- **ชื่อบอร์ด:** R44
 - **สมาชิก + บทบาท (3H):**
-  - 🛠️ **Hacker** (เทคนิค: ต่อบอร์ด/เก็บ data/train/deploy): _______________
-  - 🎨 **Hipster** (ผู้ใช้: output ที่คนเข้าใจ/รูปแบบใช้งาน): _______________
-  - 📣 **Hustler** (คุณค่า: ปัญหา/ผู้ใช้/เล่าเดโม่): _______________
+  - 🛠️ **Hacker** (เทคนิค: ต่อบอร์ด/เก็บ data/train/deploy): ___นายอาลีฟ มูนะ____________
+  - 🎨 **Hipster** (ผู้ใช้: output ที่คนเข้าใจ/รูปแบบใช้งาน): ____นายจักรินทร์ เหมสัน___________
+  - 📣 **Hustler** (คุณค่า: ปัญหา/ผู้ใช้/เล่าเดโม่): ____นายซัควาน หะยีอาแว___________
 
 ## ✅ Checklist
 
 **ก่อนเริ่ม**
-- [ ] **Fork repo ทีม** (ทำก่อนเลย จะได้กรอกงานทั้งวัน) → [student/05-submit.md](../student/05-submit.md) ข้อ 1
+- [/] **Fork repo ทีม** (ทำก่อนเลย จะได้กรอกงานทั้งวัน) → [student/05-submit.md](../student/05-submit.md) ข้อ 1
 
 **เช้า — ทำให้ UNO Q อยู่มือ**
-- [ ] เช็กอุปกรณ์ที่ได้รับครบ → [morning/kit-checklist.md](morning/kit-checklist.md)
-- [ ] ตั้งบอร์ดเป็นของทีม (รหัส/ชื่อ/Wi-Fi) → [student/02-setup-board.md](../student/02-setup-board.md)
-- [ ] ต่อ input + ลอง Modulino 7 ตัว + challenges → [morning/hardware-check.md](morning/hardware-check.md)
+- [/] เช็กอุปกรณ์ที่ได้รับครบ → [morning/kit-checklist.md](morning/kit-checklist.md)
+- [/] ตั้งบอร์ดเป็นของทีม (รหัส/ชื่อ/Wi-Fi) → [student/02-setup-board.md](../student/02-setup-board.md)
+- [/] ต่อ input + ลอง Modulino 7 ตัว + challenges → [morning/hardware-check.md](morning/hardware-check.md)
 
 **บ่าย — เทรนจริง**
-- [ ] input ที่เลือกเทรน: _______________
-- [ ] เทรน V1 + อ่าน F1/confusion matrix → [afternoon/model.md](afternoon/model.md)
-- [ ] deploy ลงบอร์ดรันได้ (รูป/คลิปใน `assets/`)
-- [ ] prediction log ≥10 cases → [afternoon/predictions.csv](afternoon/predictions.csv)
+- [/] input ที่เลือกเทรน: ____รูปภาพ___________
+- [/] เทรน V1 + อ่าน F1/confusion matrix → [afternoon/model.md](afternoon/model.md)
+- [/] deploy ลงบอร์ดรันได้ (รูป/คลิปใน `assets/`)
+- [/] prediction log ≥10 cases → [afternoon/predictions.csv](afternoon/predictions.csv)
 
 **ต่อยอด — ไอเดียนวัตกรรม**
-- [ ] Lean Canvas 4 ช่องแรก → [idea-canvas.md](idea-canvas.md)
+- [/] Lean Canvas 4 ช่องแรก → [idea-canvas.md](idea-canvas.md)
 
 ## 📝 ตอบสั้น 3 ข้อ (ปิดวัน)
-**1. ทีมสอน AI ให้ทำอะไร? (ปัญหา + ผู้ใช้)** _______________
+**1. ทีมสอน AI ให้ทำอะไร? (ปัญหา + ผู้ใช้)** ____แยกแยะสิ่งของ 2 อย่าง________
 **2. model ทำได้ดีแค่ไหน F1 ต่ำสุดที่ class ไหน ผิดเพราะอะไร?** _______________
-**3. ถ้ามีเวลาอีก 1 ชม. จะแก้อะไรก่อน?** _______________
+**3. ถ้ามีเวลาอีก 1 ชม. จะแก้อะไรก่อน?** __เพิ่มจำนวนภาพ เพื่อให้สามารถแยกเเยะได้ดีขึ้น_____________
 
 ## 🔗 ลิงก์
-- Edge Impulse project: _______________
+- Edge Impulse project: __https://studio.edgeimpulse.com/studio/1035882_____________
 - รูป/คลิป model รันบนบอร์ด: ดูใน [assets/](assets/)
 
 ## 📦 ในโฟลเดอร์นี้มีอะไร
