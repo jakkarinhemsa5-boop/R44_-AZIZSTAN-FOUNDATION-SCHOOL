@@ -1,6 +1,6 @@
 case,type,input_description,predicted_class,confidence,response_time_ms,actual_class,correct,symptom_note
-1,normal,(เช่น ทำท่าตามที่ train),,,,,,
-2,normal,,,,,,,
+1,normal,ถ่ายภาพกล่องแบรนด์,brang,0.66,0.83,brang,ถูก,จำกัดในที่แสงน้อย
+2,normal,ถ่ายภาพกล่องน้ำผลไม้,unif,0.85,0.8,unif,ถูก,เมื่อแสงน้อยจะจับไม่ได้
 3,normal,,,,,,,
 4,normal,,,,,,,
 5,normal,,,,,,,
