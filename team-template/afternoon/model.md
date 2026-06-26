@@ -9,9 +9,9 @@
 - **วิธีเชื่อมเข้า Edge Impulse:** [/] กล้อง/ไมค์ (`edge-impulse-linux`)  [ ] Modulino (`data-forwarder`)
 
 ## V1
-- Accuracy (ใน Studio): ____
-- F1 score ราย class (class : F1): _______________
-- class ที่ F1 ต่ำสุด: _______________
+- Accuracy (ใน Studio): __57.69__
+- F1 score ราย class (class : F1): _____class a : 0.73 __class b : 0.94________
+- class ที่ F1 ต่ำสุด: ______class A_________
 - รูป Confusion Matrix: ![cm-v1](../assets/cm-v1.png)
 - อ่านแล้วเห็นอะไร (class ไหนสับสนกับ class ไหน): class 1 และ class 2 สามารีถแยกแยะได้อย่างชัดเจน
 
